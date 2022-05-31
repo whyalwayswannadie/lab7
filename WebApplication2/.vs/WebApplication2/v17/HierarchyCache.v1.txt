@@ -1,0 +1,206 @@
+﻿++Solution 'WebApplication2' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:WebApplication2.sln
+++WebApplication2
+i:{00000000-0000-0000-0000-000000000000}:WebApplication2
+++Properties
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\properties\
+++References
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++Antlr3.Runtime
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++Microsoft.CSharp
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++Microsoft.Web.Infrastructure
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++Newtonsoft.Json
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.ComponentModel.Annotations
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.ComponentModel.DataAnnotations
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Configuration
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Data
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Data.DataSetExtensions
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Drawing
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.EnterpriseServices
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Net.Http
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Net.Http.WebRequest
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Abstractions
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.ApplicationServices
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.DynamicData
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Entity
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Extensions
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Helpers
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Mvc
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Mvc.Extensions
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Optimization
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Razor
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Routing
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.Services
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.WebPages
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.WebPages.Deployment
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Web.WebPages.Razor
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Xml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++System.Xml.Linq
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++WebGrease
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:
+++App_Data
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\app_data\
+++App_Start
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\app_start\
+++Content
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\
+++bootstrap-theme.css
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\bootstrap.css
+++bootstrap.css.map
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\bootstrap.css.map
+++bootstrap.min.css
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\bootstrap.min.css.map
+++Site.css
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\site.css
+++Style.css
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\content\style.css
+++Controllers
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\controllers\
+++HomeController.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\controllers\homecontroller.cs
+++fonts
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\fonts\
+++Models
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\models\
+++GuestResponse.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\models\guestresponse.cs
+++Scripts
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\
+++Views
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\
+++Home
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\home\
+++About.cshtml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\home\about.cshtml
+++Contact.cshtml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\home\contact.cshtml
+++Index.cshtml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\home\index.cshtml
+++RsvpForm.cshtml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\home\rsvpform.cshtml
+++Thanks.cshtml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\home\thanks.cshtml
+++Shared
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\shared\
+++_Layout.cshtml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\shared\_layout.cshtml
+++Error.cshtml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\_viewstart.cshtml
+++Web.config
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\views\web.config
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\web.config
+++favicon.ico
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\favicon.ico
+++Global.asax
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\global.asax
+++Global.asax.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\global.asax.cs
+++packages.config
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\packages.config
+++Web.Debug.config
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\web.debug.config
+++Web.Release.config
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\web.release.config
+++AssemblyInfo.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\properties\assemblyinfo.cs
+++BundleConfig.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\app_start\routeconfig.cs
+++glyphicons-halflings-regular.eot
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\bootstrap.js
+++bootstrap.min.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\bootstrap.min.js
+++jquery-3.3.1.intellisense.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery-3.3.1.intellisense.js
+++jquery-3.3.1.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery-3.3.1.js
+++jquery-3.3.1.min.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery-3.3.1.min.js
+++jquery-3.3.1.min.map
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery-3.3.1.min.map
+++jquery-3.3.1.slim.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery-3.3.1.slim.js
+++jquery-3.3.1.slim.min.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery-3.3.1.slim.min.js
+++jquery-3.3.1.slim.min.map
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery-3.3.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\scripts\modernizr-2.8.3.js
+++Script Documents
+++VM5
+++AdminController.cs
+++AdminControllerTestsBase.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\models\admincontrollertestsbase.cs
+++AdminControllerTests.cs
+i:{cdfee264-4449-4631-b5c5-e6b24fd89854}:d:\учеба\3курс2семестр\7. веб +\7. веб +\лаба 7 +\webapplication2\webapplication2\models\admincontrollertests.cs
